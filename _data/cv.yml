@@ -32,13 +32,13 @@ cv:
         end_date: Present
 
     Experience:
-      - company: Brain Science and Processing Lab (BSPL)
+      - company: Brain Signal Processing Lab (BSPL)
         position: Research Intern
         location: Korea University
         start_date: 2026-06
         end_date: present
 
-      - company: Biomedical Machine Learning Lab (BML Lab)
+      - company: Bioinformatics & Machine Learning Lab (BML Lab)
         position: Research Intern
         location: Chungbuk National University
         start_date: 2025-01
