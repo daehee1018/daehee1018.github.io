@@ -1,27 +1,29 @@
 ---
-
 layout: about
 title: about
 permalink: /
 subtitle: Undergraduate Student in Psychology and Computer Science, Chungbuk National University
 
 profile:
-align: right
-image: prof_pic.jpg
-image_circular: false
-more_info: > <p>Chungbuk National University</p> <p>Department of Psychology</p> <p>Department of Computer Science</p>
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Chungbuk National University</p>
+    <p>Department of Psychology</p>
+    <p>Department of Computer Science</p>
 
 selected_papers: true
 social: true
 
 announcements:
-enabled: true
-scrollable: true
-limit: 5
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-enabled: false
---------------
+  enabled: false
+---
 
 I am an undergraduate student majoring in **Psychology** and **Computer Science** at **Chungbuk National University**.
 
