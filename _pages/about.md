@@ -38,3 +38,14 @@ I am also interested in **human-inspired artificial intelligence**, drawing on m
 * AI for Neurological and Psychiatric Disorders
 * Machine Learning and Deep Learning
 * Human-Inspired Artificial Intelligence
+
+### Research Experience
+
+- Brain Science and Processing Lab (BSPL), Korea University (2026–Present)
+- BML Lab, Chungbuk National University (2025–2026)
+
+### Publications
+
+- Park, M., Han, D., Ko, J., & Jo, K. (2025).
+  A Comparative Analysis of Graph Representation Learning Models for the Initial Embedding Stage of the HMGRL Framework in Drug–Drug Interaction Prediction.
+  Proceedings of the Korea Software Congress (KSC 2025).
