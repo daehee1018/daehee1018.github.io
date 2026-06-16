@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student in Psychology and Computer Science, Chungbuk National University
+subtitle: B.S. Student in Psychology and Computer Science 
+          <p>Chungbuk National University</p>
 
 profile:
   align: right
@@ -11,7 +12,7 @@ profile:
   more_info: >
     <p>Chungbuk National University</p>
     <p>B.S. Student</p>
-    <p>Psychology (Major)</p>
+    <p>Psychology</p>
     <p>Computer Science (Double Major)</p>
 
 selected_papers: false
