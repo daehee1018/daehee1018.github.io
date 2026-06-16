@@ -34,20 +34,18 @@ cv:
     Experience:
       - company: Brain Science and Processing Lab (BSPL)
         position: Research Intern
-        location: Department of Brain and Cognitive Engineering, Korea University
+        location: Korea University
         start_date: 2026-06
-        end_date: Present
-        # highlights:
-        #   - Research interests include AI applications for brain science, neuroimaging, and mental health.
+        end_date: present
 
-      - company: BML Lab
+      - company: Biomedical Machine Learning Lab (BML Lab)
         position: Research Intern
-        location: Department of Computer Engineering, Chungbuk National University
+        location: Chungbuk National University
         start_date: 2025-01
         end_date: 2026-06
         highlights:
           - Conducted research on graph representation learning for drug-drug interaction prediction.
-          - Contributed to a conference paper presented at Korea Software Congress (KSC 2025).
+          - Co-authored a conference paper presented at Korea Software Congress (KSC 2025).
 
     Publications:
       - title: A Comparative Analysis of Graph Representation Learning Models for the Initial Embedding Stage of the HMGRL Framework in Drug-Drug Interaction Prediction
@@ -67,9 +65,11 @@ cv:
         summary: Undergraduate/Junior Paper Competition.
 
     Interests:
-      - name: Artificial Intelligence for Neurological and Psychiatric Disorders
-      - name: Machine Learning and Deep Learning
-      - name: Human-Inspired Artificial Intelligence
+      - name: Research Interests
+        keywords:
+          - AI for Neurological and Psychiatric Disorders
+          - Machine Learning and Deep Learning
+          - Human-Inspired Artificial Intelligence
 
     Skills:
       - name: Programming
