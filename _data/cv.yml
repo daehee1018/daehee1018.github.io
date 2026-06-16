@@ -43,13 +43,12 @@ cv:
         location: Chungbuk National University
         start_date: 2025-01
         end_date: 2026-06
-        highlights:
-          - Conducted research on graph representation learning for drug-drug interaction prediction.
-          - Co-authored a conference paper presented at Korea Software Congress (KSC 2025).
+        # highlights:
+        #   - Conducted research on graph representation learning for drug-drug interaction prediction.
+        #   - Co-authored a conference paper presented at Korea Software Congress (KSC 2025).
 
     Publications:
-      - title: A Comparative Analysis of Graph Representation Learning Models for the Initial Embedding Stage of the HMGRL Framework in Drug-Drug Interaction Prediction
-        authors:
+      - title: HMGRL 프레임워크의 초기 임베딩 단계에서 그래프 표현 학습 모델에 따른 약물-약물 상호작용 예측 성능 비교 분석
           - Minseok Park
           - Daehee Han
           - Jonghyun Ko
