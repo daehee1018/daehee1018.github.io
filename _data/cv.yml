@@ -40,7 +40,7 @@ cv:
 
       - company: Bioinformatics & Machine Learning Lab (BML Lab)
         position: Research Intern
-        location: Chungbuk National University
+        location: CBNU
         start_date: 2025-01
         end_date: 2026-06
         # highlights:
@@ -49,13 +49,9 @@ cv:
 
     Publications:
       - title: HMGRL 프레임워크의 초기 임베딩 단계에서 그래프 표현 학습 모델에 따른 약물-약물 상호작용 예측 성능 비교 분석
-          - Minseok Park
-          - Daehee Han
-          - Jonghyun Ko
-          - Kyuri Jo
+        authors: 박민석, 한대희, 고종현, 조겨리
         publisher: Proceedings of the Korea Software Congress (KSC 2025)
         releaseDate: 2025
-        summary: Comparative analysis of graph representation learning models for drug-drug interaction prediction within the HMGRL framework.
 
     Awards:
       - title: Encouragement Award
