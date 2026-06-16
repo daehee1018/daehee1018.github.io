@@ -31,9 +31,6 @@ I am also interested in **human-inspired artificial intelligence**, drawing on m
 
 ### Research Interests
 
-* AI for Brain Disorders and Mental Health
-* Machine Learning & Deep Learning
-* Early Diagnosis and Prediction of Neurological Disorders
-* Psychiatric Disorder Analysis
-* Multimodal Biomedical Data Analysis
+* AI for Neurological and Psychiatric Disorders
+* Machine Learning and Deep Learning
 * Human-Inspired Artificial Intelligence
