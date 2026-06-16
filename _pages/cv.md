@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 4
+nav_order: 3
+cv_pdf: /assets/pdf/CV_Daehee_Han.pdf
+cv_format: rendercv
 description:
+toc:
+  sidebar: left
 ---
-
-You can download my CV [here](/assets/pdf/CV_Daehee_Han.pdf).
