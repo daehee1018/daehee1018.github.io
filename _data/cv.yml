@@ -4,10 +4,10 @@ cv:
   email: handh011018@gmail.com
   location: Cheongju, Korea
   image: ""
-  summary: >
-    Undergraduate student majoring in Psychology and Computer Science at Chungbuk National University.
-    Interested in artificial intelligence for neurological and psychiatric disorders, machine learning,
-    deep learning, and human-inspired artificial intelligence.
+  # summary: >
+  #   Undergraduate student majoring in Psychology and Computer Science at Chungbuk National University.
+  #   Interested in artificial intelligence for neurological and psychiatric disorders, machine learning,
+  #   deep learning, and human-inspired artificial intelligence.
 
   social_networks:
     - network: GitHub
@@ -31,14 +31,14 @@ cv:
         start_date: 2023-09
         end_date: Present
 
-    Research Experience:
+    Experience:
       - company: Brain Science and Processing Lab (BSPL)
         position: Research Intern
         location: Department of Brain and Cognitive Engineering, Korea University
         start_date: 2026-06
         end_date: Present
-        highlights:
-          - Research interests include AI applications for brain science, neuroimaging, and mental health.
+        # highlights:
+        #   - Research interests include AI applications for brain science, neuroimaging, and mental health.
 
       - company: BML Lab
         position: Research Intern
@@ -66,7 +66,7 @@ cv:
         awarder: Korea Software Congress (KSC 2025)
         summary: Undergraduate/Junior Paper Competition.
 
-    Research Interests:
+    Interests:
       - name: Artificial Intelligence for Neurological and Psychiatric Disorders
       - name: Machine Learning and Deep Learning
       - name: Human-Inspired Artificial Intelligence
