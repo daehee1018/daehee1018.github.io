@@ -10,10 +10,10 @@ profile:
   image_circular: false
   more_info: >
     <p>Chungbuk National University</p>
-    <p>Department of Psychology</p>
-    <p>Department of Computer Science</p>
+    <p>B.S. Student</p>
+    <p>Psychology & Computer Science</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
