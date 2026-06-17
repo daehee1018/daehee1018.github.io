@@ -21,7 +21,7 @@ limit: 5
 
 latest_posts:
 enabled: false
---------------
+---
 
 I am an undergraduate student at **Chungbuk National University**.
 
