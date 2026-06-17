@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student in Psychology and Computer Science
+#subtitle: Undergraduate Student in Psychology and Computer Science
 
 profile:
   align: right
@@ -24,6 +24,6 @@ latest_posts:
   enabled: false
 ---
 
-I am an undergraduate student at **Chungbuk National University**, majoring in **Psychology** and **Computer Science**.
+I am an undergraduate student majoring in **Psychology** and **Computer Science** at **Chungbuk National University**.
 
-My research interests include **machine learning and deep learning**, **AI for neurological and psychiatric disorders**, and **human-inspired artificial intelligence**.
+My research interests include **machine learning**, **deep learning**, **AI for neurological and psychiatric disorders**, and **human-inspired AI**.
