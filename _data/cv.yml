@@ -3,7 +3,6 @@ cv:
   label: B.S. Student in Psychology and Computer Science
   email: daehee.han01@gmail.com
   location: Cheongju, Korea
-  image: ""
   # summary: >
   #   Undergraduate student majoring in Psychology and Computer Science at Chungbuk National University.
   #   Interested in artificial intelligence for neurological and psychiatric disorders, machine learning,
@@ -20,16 +19,16 @@ cv:
       - institution: Chungbuk National University
         location: Cheongju, Korea
         area: Psychology
-        studyType: B.S.
+        degree: B.S.
         start_date: 2020-03
-        end_date: Present
+        end_date: present
 
       - institution: Chungbuk National University
         location: Cheongju, Korea
         area: Computer Science
-        studyType: B.S. / Double Major
+        degree: B.S. / Double Major
         start_date: 2023-09
-        end_date: Present
+        end_date: present
 
     Experience:
       - company: Brain Signal Processing Lab (BSPL)
@@ -51,15 +50,23 @@ cv:
 
     Publications:
       - title: HMGRL 프레임워크의 초기 임베딩 단계에서 그래프 표현 학습 모델에 따른 약물-약물 상호작용 예측 성능 비교 분석
-        authors: 박민석, 한대희, 고종현, 조겨리
-        publisher: Proceedings of the Korea Software Congress (KSC 2025)
-        releaseDate: 2025
+        authors:
+          - 박민석
+          - 한대희
+          - 고종현
+          - 조겨리
+        journal: Proceedings of the Korea Software Congress (KSC 2025)
+        date: 2025
 
     Awards:
-      - title: Encouragement Award
+      - name: Encouragement Award
         date: 2025
-        awarder: Korea Software Congress (KSC 2025)
-        summary: Undergraduate/Junior Paper Competition.
+        summary: Korea Software Congress (KSC 2025) — Undergraduate/Junior Paper Competition.
+
+    Certificates:
+      - name: Certified Survey Researcher, Grade 2 (사회조사분석사 2급)
+        date: 2026-09-11
+        summary: Human Resources Development Service of Korea
 
     Interests:
       - name: Research Interests
