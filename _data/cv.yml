@@ -56,17 +56,21 @@ cv:
           - 고종현
           - 조겨리
         journal: Proceedings of the Korea Software Congress (KSC 2025)
+        publisher: Proceedings of the Korea Software Congress (KSC 2025)
         date: 2025
 
     Awards:
       - name: Encouragement Award
+        title: Encouragement Award
         date: 2025
+        awarder: Korea Software Congress (KSC 2025)
         summary: Korea Software Congress (KSC 2025) — Undergraduate/Junior Paper Competition.
 
     Certificates:
       - name: Certified Survey Researcher, Grade 2 (사회조사분석사 2급)
         date: 2026-09-11
         summary: Human Resources Development Service of Korea
+        issuer: Human Resources Development Service of Korea
 
     Interests:
       - name: Research Interests
