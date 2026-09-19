@@ -37,12 +37,14 @@ cv:
         location: Korea University
         start_date: 2026-06
         end_date: present
+        url: https://bspl-ku.github.io/
 
       - company: Bioinformatics & Machine Learning Lab (BML Lab)
         position: Research Intern
         location: CBNU
         start_date: 2025-01
         end_date: 2026-06
+        url: https://bml-cbnu.github.io/
         # highlights:
         #   - Conducted research on graph representation learning for drug-drug interaction prediction.
         #   - Co-authored a conference paper presented at Korea Software Congress (KSC 2025).
