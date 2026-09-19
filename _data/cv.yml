@@ -70,9 +70,9 @@ cv:
     Skills:
       - name: Programming
         keywords: "Python, R, C/C++"
-      - name: Frameworks
+      - name: Machine Learning / Deep Learning
         keywords: "PyTorch, scikit-learn"
-      - name: Data Processing
+      - name: Neuroimaging
+        keywords: "AFNI, FreeSurfer"
+      - name: Data Analysis
         keywords: "NumPy, Pandas"
-      - name: Tools
-        keywords: "Git, GitHub, Linux"
