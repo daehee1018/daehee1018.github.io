@@ -62,9 +62,10 @@ cv:
     Interests:
       - name: Research Interests
         keywords:
-          - AI for Neurological and Psychiatric Disorders
           - Machine Learning and Deep Learning
-          - Human-Inspired Artificial Intelligence
+          - fMRI Foundation Models
+          - Model Fusion & Knowledge Transfer
+          - Brain-Inspired AI
 
     Skills:
       - name: Programming

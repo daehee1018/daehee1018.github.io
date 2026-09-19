@@ -26,4 +26,4 @@ latest_posts:
 
 I am an undergraduate student majoring in **Psychology** and **Computer Science** at **Chungbuk National University**.
 
-My research interests span **machine learning, deep learning, fMRI foundation models, and model fusion & knowledge transfer**.
+My research interests span **machine learning, deep learning, fMRI foundation models, model fusion & knowledge transfer, and brain-inspired AI**.
